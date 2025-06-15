@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Monil Panchal
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python, Excel and Tableau
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : instagram : https://www.instagram.com/monil__1705/
 
 
