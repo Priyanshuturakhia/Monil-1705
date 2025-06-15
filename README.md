@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Monil Panchal
+- 👋 Hi, I’m Bhuro 
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python, Excel and Tableau
 - 📫 How to reach me : instagram : https://www.instagram.com/monil__1705/
